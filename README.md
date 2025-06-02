@@ -75,5 +75,12 @@ This Power BI dashboard analyzes a loan prediction dataset to uncover key insigh
 - Practiced basic DAX measures and visual-level filtering
 
 ----
+## ✍️ Author
+**Indira 
+
+(https://www.linkedin.com/in/indira-narayanareddygari-analyst061294/)
+
+**Data Analyst | Power BI Developer | SQL & Excel Specialist | Python Enthusiast**
+
 ## 📸 Screenshot
 ![Dashboard Screenshot](https://github.com/user-attachments/assets/fe0d8708-4e3b-4545-99d6-0855de7ac2d8)
